@@ -1,0 +1,14 @@
+D:\C# projects\bin\Debug\netcoreapp3.1\C# projects.exe
+D:\C# projects\bin\Debug\netcoreapp3.1\C# projects.deps.json
+D:\C# projects\bin\Debug\netcoreapp3.1\C# projects.runtimeconfig.json
+D:\C# projects\bin\Debug\netcoreapp3.1\C# projects.runtimeconfig.dev.json
+D:\C# projects\bin\Debug\netcoreapp3.1\C# projects.dll
+D:\C# projects\bin\Debug\netcoreapp3.1\C# projects.pdb
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.csproj.AssemblyReference.cache
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.AssemblyInfoInputs.cache
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.AssemblyInfo.cs
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.csproj.CoreCompileInputs.cache
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.dll
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.pdb
+D:\C# projects\obj\Debug\netcoreapp3.1\C# projects.genruntimeconfig.cache
